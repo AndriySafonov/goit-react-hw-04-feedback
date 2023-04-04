@@ -1,0 +1,24 @@
+.statistics_list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.statistics_item {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.total {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.statistics_percentage {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
